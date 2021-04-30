@@ -7,4 +7,4 @@ Following tools have been used to develop this API:<br>
 4. Spring Data Jpa
 
 <br>
-Create a mySQL database named "expense_history" and use this API. You can test the POST, GET, PUT, DELETE method using postman.
+Create a mySQL database named "expense_history" and then use this API. You can test the POST, GET, PUT, DELETE method using postman or any other API testing tool.
